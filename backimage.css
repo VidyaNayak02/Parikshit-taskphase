@@ -1,0 +1,9 @@
+   body {
+                  height:100vh;
+                  background-attachment:fixed;
+                background-image:url("satellite1.png");
+                background-size:cover;
+                background-position:center;
+                background-repeat:no-repeat;
+             
+            }
